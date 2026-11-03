@@ -1,0 +1,11 @@
+python-dotenv
+pandas
+datasets
+huggingface_hub
+pytest
+langchain
+langchain-google-genai
+chromadb
+langchain-chroma
+langchain-text-splitters
+langgraph
